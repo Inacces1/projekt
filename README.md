@@ -10,3 +10,6 @@ Projekt jest aplikacją webowa, która umożliwia zarządzanie zadaniami i proje
 
 ## LINK DO REPO
 [repozytorium na git hub](https://github.com/Inacces1/projekt)
+
+## Pliki ignorowane
+`notatki.txt` - plik lokalny ignorowany przez `.gitignore`
