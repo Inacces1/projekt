@@ -7,3 +7,6 @@ Projekt jest aplikacją webowa, która umożliwia zarządzanie zadaniami i proje
 ## Autor
 
 -Mariusz Pluta
+
+## LINK DO REPO
+[repozytorium na git hub](https://github.com/Inacces1/projekt)
